@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Vexo AI Privacy Policy</title>
+
+<style>
+
+body{
+    margin:0;
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    background:#202123;
+    color:#ECECF1;
+    line-height:1.7;
+}
+
+.container{
+    max-width:900px;
+    margin:auto;
+    padding:60px 20px;
+}
+
+h1{
+    font-size:38px;
+    margin-bottom:10px;
+}
+
+h2{
+    margin-top:40px;
+    font-size:24px;
+    border-bottom:1px solid #444;
+    padding-bottom:6px;
+}
+
+h3{
+    margin-top:25px;
+    font-size:18px;
+}
+
+p{
+    margin:12px 0;
+}
+
+ul{
+    margin:10px 0 20px 25px;
+}
+
+li{
+    margin:6px 0;
+}
+
+.header{
+    margin-bottom:40px;
+}
+
+.updated{
+    color:#A0A0A0;
+}
+
+a{
+    color:#10A37F;
+    text-decoration:none;
+}
+
+a:hover{
+    text-decoration:underline;
+}
+
+.footer{
+    margin-top:60px;
+    padding-top:20px;
+    border-top:1px solid #444;
+    color:#A0A0A0;
+    font-size:14px;
+}
+
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+<div class="header">
+<h1>Privacy Policy</h1>
+<p class="updated">Last Updated: March 2026</p>
+</div>
+
+<p>
+Vexo AI (“we”, “our”, or “us”) respects your privacy and is committed to protecting
+the information processed when you use the <strong>Vexo AI mobile application</strong>.
+This Privacy Policy explains how information may be collected, processed, used,
+and protected when you use our application.
+</p>
+
+<h2>1. Overview</h2>
+
+<p>
+Vexo AI is an AI-powered application that allows users to generate videos from
+photos, text prompts, or creative inputs.
+</p>
+
+<p>
+The app may also provide <strong>pre-made video templates and visual styles</strong>
+that users can select to create videos more easily.
+</p>
+
+<p>
+To provide these features, the app may temporarily process certain user-provided
+content through secure servers. We aim to minimize the collection and storage of
+personal information whenever possible.
+</p>
+
+<h2>2. Information We May Process</h2>
+
+<h3>2.1 User Uploaded Content</h3>
+
+<p>
+When using video generation features, users may upload or submit content such as:
+</p>
+
+<ul>
+<li>Images or photos</li>
+<li>Text prompts</li>
+<li>Video generation instructions</li>
+</ul>
+
+<p>
+Users may also select from <strong>pre-designed video templates</strong> available
+inside the application.
+</p>
+
+<p>
+This content is used only for generating the requested AI video output.
+</p>
+
+<h3>Temporary Processing</h3>
+
+<ul>
+<li>Processing usually takes approximately <strong>60 seconds</strong></li>
+<li>Uploaded images and prompts are <strong>automatically deleted after processing</strong></li>
+<li>Content is <strong>not permanently stored on our servers</strong></li>
+</ul>
+
+<p>
+We do not use uploaded user content for unrelated purposes.
+</p>
+
+<h3>2.2 Generated Video Content</h3>
+
+<p>
+When a video is generated, the resulting output is delivered to the user.
+Users may choose to save generated videos directly to their own device.
+</p>
+
+<h3>2.3 Device and Diagnostic Information</h3>
+
+<p>
+To maintain app performance and reliability, limited device information may
+be collected automatically such as:
+</p>
+
+<ul>
+<li>Device model</li>
+<li>Operating system version</li>
+<li>App version</li>
+<li>Crash or diagnostic data</li>
+</ul>
+
+<p>
+This information helps improve stability and detect technical issues.
+</p>
+
+<h2>3. How We Use Information</h2>
+
+<p>Information processed through the app may be used for:</p>
+
+<ul>
+<li>Generating AI videos requested by users</li>
+<li>Delivering generated results</li>
+<li>Improving app performance and stability</li>
+<li>Diagnosing technical issues</li>
+<li>Maintaining system security</li>
+</ul>
+
+<p>
+We do <strong>not sell or rent personal information</strong> to third parties.
+</p>
+
+<h2>4. Data Retention</h2>
+
+<ul>
+<li>Uploaded images and prompts are deleted immediately after processing</li>
+<li>Processing usually takes about <strong>60 seconds</strong></li>
+<li>Diagnostic data may be retained temporarily to improve service quality</li>
+</ul>
+
+<h2>5. Third-Party Services</h2>
+
+<p>
+To operate certain features, the app may rely on third-party infrastructure
+such as cloud hosting or AI processing providers.
+These services may temporarily process information only to perform the
+requested functionality.
+</p>
+
+<h2>6. Children’s Privacy</h2>
+
+<p>
+Vexo AI is <strong>not intended for users under the age of 18</strong>.
+</p>
+
+<p>
+We do not knowingly collect personal information from individuals under 18.
+If we become aware that such information has been provided, we will take
+reasonable steps to delete it as soon as possible.
+</p>
+
+<p>
+Parents or guardians who believe a minor has used the app may contact us.
+</p>
+
+<h2>7. Security</h2>
+
+<p>
+We implement reasonable technical and administrative measures to protect
+information processed through the application. However, no internet-based
+service can guarantee absolute security.
+</p>
+
+<h2>8. User Control</h2>
+
+<p>
+Users control the content they upload and generate within the app.
+Users may choose to upload images, provide prompts, generate videos,
+and save generated content locally on their device.
+</p>
+
+<h2>9. User Generated Content & Templates</h2>
+
+<p>
+Vexo AI allows users to upload images, enter prompts, and generate videos
+using artificial intelligence. These inputs and outputs may be considered
+<strong>user-generated content</strong>.
+</p>
+
+<p>Users agree not to generate or upload content that:</p>
+
+<ul>
+<li>Violates intellectual property rights</li>
+<li>Contains illegal or harmful material</li>
+<li>Promotes violence or harassment</li>
+<li>Contains explicit or abusive content</li>
+<li>Impersonates another person</li>
+<li>Violates applicable laws</li>
+</ul>
+
+<p>
+We reserve the right to restrict or disable access to the service if misuse
+is detected.
+</p>
+
+<h2>10. Reporting Concerns</h2>
+
+<p>
+If you believe content generated through Vexo AI violates these policies,
+please contact us:
+</p>
+
+<p><strong>Email:</strong> support@vexoai.app</p>
+
+<h2>11. Changes to This Privacy Policy</h2>
+
+<p>
+We may update this Privacy Policy from time to time. Updated versions will
+be posted on this page with a revised date.
+</p>
+
+<h2>12. Contact</h2>
+
+<p>
+For any privacy-related questions, please contact:
+</p>
+
+<p><strong>Email:</strong> support@vexoai.app</p>
+
+<div class="footer">
+© 2026 Vexo AI
+</div>
+
+</div>
+
+</body>
+</html>
