@@ -65,9 +65,9 @@ button{
 width:100%;
 padding:14px;
 border:none;
-border-radius:8px;
-background:#10A37F;
-color:white;
+border-radius:100px;
+background:#ffffff;
+color:#202123;
 font-size:16px;
 font-weight:600;
 cursor:pointer;
@@ -75,7 +75,7 @@ cursor:pointer;
 }
 
 button:hover{
-background:#0d8f6f;
+background:#e5e5e5;
 }
 
 .footer{
@@ -116,6 +116,13 @@ function sendMail(){
 let name = document.getElementById("name").value;
 let email = document.getElementById("email").value;
 let message = document.getElementById("message").value;
+
+/* Require email before sending */
+
+if(email.trim() === ""){
+alert("Please enter your email address before sending.");
+return;
+}
 
 let subject = encodeURIComponent("Vexo AI Support Request");
 
